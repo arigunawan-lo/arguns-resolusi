@@ -1,0 +1,5 @@
+Leraning Plan
+- Memahami Bahasa JavaScript
+- Memahami Bahasa PHP
+- Mempelajari framework Backend javascript
+- Mempelajari framework Backend PHP
