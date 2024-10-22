@@ -7,4 +7,3 @@ Leraning Plan
   *mempelajari node js
   *mempelajari vue js
 - Mempelajari framework Backend PHP
-  *mempelajari laravel
