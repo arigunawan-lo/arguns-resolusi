@@ -2,4 +2,4 @@ Ari Resolusi
 - Memahami HTMl dan CSS
 - Dapat Memahami JavaScript
 - Membuat mini project dengan Html, css dan javaScript
-- Dapat membuat atau memulai sebagai Web freelance
+- Membuat content web developer
