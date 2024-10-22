@@ -4,4 +4,5 @@ Leraning Plan
   *advance javaScript
 - Memahami Bahasa PHP
 - Mempelajari framework Backend javascript
+  *mempelajari node js
 - Mempelajari framework Backend PHP
