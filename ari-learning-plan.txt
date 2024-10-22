@@ -5,4 +5,6 @@ Leraning Plan
 - Memahami Bahasa PHP
 - Mempelajari framework Backend javascript
   *mempelajari node js
+  *mempelajari vue js
 - Mempelajari framework Backend PHP
+  *mempelajari laravel
